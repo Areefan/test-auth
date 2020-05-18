@@ -1,0 +1,7 @@
+{
+  "name": "test-auth",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
